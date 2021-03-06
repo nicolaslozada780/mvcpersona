@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiPersona", "apiPersona\apiPersona.csproj", "{9C0961E2-3AC2-4C83-BB11-C26897F27704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiPersona.Tests", "apiPersona.Tests\apiPersona.Tests.csproj", "{4CE20233-FAFB-40FC-91CB-958F2968F5F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0961E2-3AC2-4C83-BB11-C26897F27704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0961E2-3AC2-4C83-BB11-C26897F27704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0961E2-3AC2-4C83-BB11-C26897F27704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0961E2-3AC2-4C83-BB11-C26897F27704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE20233-FAFB-40FC-91CB-958F2968F5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE20233-FAFB-40FC-91CB-958F2968F5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE20233-FAFB-40FC-91CB-958F2968F5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE20233-FAFB-40FC-91CB-958F2968F5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74FD56FF-6827-414A-B223-714DB8631002}
+	EndGlobalSection
+EndGlobal
